@@ -118,4 +118,4 @@ Criar um **Grupo de Recursos**, uma **Rede Virtual (VNet)** e uma **VPN Gateway*
 
 ---  
 
-> **Nota:** Este guia explora o básico, para mais informações e/ou configurações consulte a documentação.
+> **Nota:** Este guia aborda configurações básicas. Para recursos avançados e personalizações, consulte a [documentação oficial da Microsoft](https://learn.microsoft.com/pt-br/azure/virtual-network/).
